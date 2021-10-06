@@ -1,0 +1,4 @@
+*.DS_store
+
+# data from prep/ folder
+data/prep/
