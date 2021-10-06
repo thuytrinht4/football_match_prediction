@@ -2,6 +2,7 @@
 
 # data from prep/ folder
 data/prep
+data/raw
 
 # folders from others' project clone
 ipython-soccer-predictions
