@@ -1,4 +1,10 @@
 *.DS_store
 
 # data from prep/ folder
-data/prep/
+data/prep
+
+# folders from others' project clone
+ipython-soccer-predictions
+
+# others
+.idea
